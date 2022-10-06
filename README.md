@@ -21,7 +21,7 @@ Libraries: numpy, pandas, matplotlib, seaborn, scipy.stats
 Common statistical tests have been leveraged to compare the performance of the new and old designs of an e-news portal, using a survey
 of 100 vistors, equally divided between the two, to answer questions such as whether the time spent on the website and conversion
 (subscription) rate have been increased by the new website or not, and if these findings vary with the preferred language of the
-user or not. <br> 
+user or not. 
 Key tools: Hypothesis Testing, a/b Testing, Statistical Inference, t-test, Chi-square test of independence, ANOVA test <br>  
 Libraries: numpy, pandas, matplotlib, seaborn, scipy.stats, statsmodels.stats
 
