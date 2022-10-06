@@ -1,7 +1,7 @@
 # Business_Statistics
 Application of statistical methods to business data:
 
-1) Microsoft Stock Price Prediction (MS_stock):
+1) Microsoft stock price prediction (MS_stock):
 The 2020 stock price data of Microsoft has been used to predict the probability of gain/drop for interested investors. <br>                                  Key tools: Statistical Modeling, normal distribution, KDE (PDF) plots <br> 
 Libraries: numpy, pandas, matplotlib, seaborn, scipy.stats
 
