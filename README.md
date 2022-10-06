@@ -10,7 +10,7 @@ Libraries: numpy, pandas, matplotlib, seaborn, scipy.stats
 2) Statistical analysis of insurance data (Insurance):
 The potential relationship between being a smoker and sex has been investigated for an insurance company called MedicaInsure using
 relevant statistical tests.
-
+l
 Key tools: Hypothesis Testing, Statistical Inference, Chi-square test of independence, z-test for proportions
 Libraries: numpy, pandas, matplotlib, seaborn, scipy.stats, statsmodels.stats
 
