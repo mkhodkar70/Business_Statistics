@@ -6,8 +6,8 @@ The 2020 stock price data of Microsoft has been used to predict the probability 
 Libraries: numpy, pandas, matplotlib, seaborn, scipy.stats
 
 2) Statistical analysis of insurance data (Insurance): <br> 
-The potential relationship between being a smoker and sex has been investigated for an insurance company called MedicaInsure using
-relevant statistical tests. <br> 
+The potential relationship between being a smoker and sex has been investigated for the customers of an insurance provide,
+called MedicaInsure, using relevant statistical tests. <br> 
 Key tools: Hypothesis Testing, Statistical Inference, Chi-square test of independence, z-test for proportions <br> 
 Libraries: numpy, pandas, matplotlib, seaborn, scipy.stats, statsmodels.stats
 
